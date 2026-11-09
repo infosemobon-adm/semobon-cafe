@@ -1,0 +1,101 @@
+[
+  {
+    "id": "zamalek",
+    "name": "Semobon Zamalek Flagship",
+    "nameAr": "فرع الزمالك - كورنيش النيل",
+    "city": "Cairo",
+    "district": "Zamalek",
+    "districtAr": "الزمالك",
+    "address": "14 Gezira Island St., overlooking the Nile, Zamalek, Cairo",
+    "addressAr": "١٤ شارع جزيرة الزمالك، مطل مباشرة على النيل، الزمالك، القاهرة",
+    "phone": "+20 2 2736 8890",
+    "vodafoneCashMerchant": "010 9876 5432",
+    "hours": "08:00 AM – 02:00 AM Daily",
+    "image": "/images/hero_cafe.jpg",
+    "features": [
+      "Nile River View",
+      "Outdoor Pergola Terrace",
+      "Live Sand Turkish Coffee",
+      "High Speed Wi-Fi"
+    ]
+  },
+  {
+    "id": "new-cairo",
+    "name": "Semobon New Cairo 5A",
+    "nameAr": "فرع التجمع الخامس - مجمع 5A ووترواي",
+    "city": "Cairo",
+    "district": "New Cairo",
+    "districtAr": "التجمع الخامس",
+    "address": "5A by The Waterway, Ring Road, New Cairo",
+    "addressAr": "مجمع 5A ذا ووترواي، الطريق الدائري، القاهرة الجديدة",
+    "phone": "+20 2 2813 4410",
+    "vodafoneCashMerchant": "010 9876 5433",
+    "hours": "08:30 AM – 01:30 AM Daily",
+    "image": "/images/hero_cafe.jpg",
+    "features": [
+      "Valet Parking",
+      "Sunlit Mediterranean Atrium",
+      "VIP Booths",
+      "Specialty Pour-Over Bar"
+    ]
+  },
+  {
+    "id": "zayed",
+    "name": "Semobon Sheikh Zayed Arkan",
+    "nameAr": "فرع الشيخ زايد - أركان بلازا",
+    "city": "Giza",
+    "district": "Sheikh Zayed",
+    "districtAr": "الشيخ زايد",
+    "address": "Arkan Plaza Extension, 26th July Corridor, Sheikh Zayed",
+    "addressAr": "توسعات أركان بلازا، محور ٢٦ يوليو، الشيخ زايد، الجيزة",
+    "phone": "+20 2 3851 2299",
+    "vodafoneCashMerchant": "010 9876 5434",
+    "hours": "08:00 AM – 01:00 AM Daily",
+    "image": "/images/hero_cafe.jpg",
+    "features": [
+      "Spacious Outdoor Seating",
+      "Pet Friendly Patio",
+      "Study Nook",
+      "Fast Pickup Lane"
+    ]
+  },
+  {
+    "id": "maadi",
+    "name": "Semobon Maadi Degla",
+    "nameAr": "فرع المعادي دجلة - شارع ٢٠٦",
+    "city": "Cairo",
+    "district": "Maadi",
+    "districtAr": "المعادي",
+    "address": "22 Street 206, Degla, Maadi, Cairo",
+    "addressAr": "٢٢ شارع ٢٠٦، دجلة، المعادي، القاهرة",
+    "phone": "+20 2 2519 7730",
+    "vodafoneCashMerchant": "010 9876 5435",
+    "hours": "07:30 AM – 12:30 AM Daily",
+    "image": "/images/hero_cafe.jpg",
+    "features": [
+      "Quiet Shaded Garden",
+      "Cozy Fireplace Lounge",
+      "Book Corner",
+      "Fresh Bakes Every 20 Mins"
+    ]
+  },
+  {
+    "id": "alexandria",
+    "name": "Semobon Alexandria Stanley",
+    "nameAr": "فرع الإسكندرية - كورنيش ستانلي",
+    "city": "Alexandria",
+    "district": "Stanley",
+    "districtAr": "ستانلي",
+    "address": "Stanley Bridge Corniche Promenade, Alexandria",
+    "addressAr": "ممشى كوبري ستانلي، طريق الجيش، كورنيش الإسكندرية",
+    "phone": "+20 3 543 9980",
+    "vodafoneCashMerchant": "010 9876 5436",
+    "hours": "08:00 AM – 02:00 AM Daily",
+    "image": "/images/hero_cafe.jpg",
+    "features": [
+      "Direct Mediterranean Sea View",
+      "Sea Breeze Balcony",
+      "Late Night Coffee & Dessert"
+    ]
+  }
+]
