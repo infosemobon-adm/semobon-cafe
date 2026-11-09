@@ -5,8 +5,8 @@
     "nameAr": "بيكان بون رويال مع كراميل وجوز البيكان المحمص",
     "category": "cinnabon",
     "description": "Freshly baked Makara cinnamon dough rolled with rich brown sugar, generously smothered in warm cream cheese frosting, caramelized glaze, and crispy roasted Texas pecans.",
-    "descriptionAr": "عجينة قرفة ماكارا طازجة محشوة بسكر بني ومغطاة بطبقة غنية من صصوص الجبنة الكريمية الدافئة وصوص الكراميل مع قطع البيكان المقرمشة المحمصة.",
-    "price": 150,
+    "descriptionAr": "عجينة قرفة ماكارا طازجة محشوة بسكر بني ومغطاة بطبقة غنية من صوص الجبنة الكريمية الدافئة وصوص الكراميل مع قطع البيكان المقرمشة المحمصة.",
+    "price": 145,
     "image": "/images/signature_cinnabon.jpg",
     "rating": 4.9,
     "reviewsCount": 382,
@@ -15,6 +15,296 @@
     "isSignature": true,
     "isBestSeller": true,
     "isVegetarian": true,
-    "saleNote": "10% OFF TODAY"
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Tree Nuts"
+    ]
+  },
+  {
+    "id": "cin-02",
+    "name": "The Classic Semobon Cinnamon Glaze Roll",
+    "nameAr": "سينابون كلاسيك بالصوص الأبيض الأصلي",
+    "category": "cinnabon",
+    "description": "Our iconic warm cinnamon roll made with slow-proofed brioche dough, warm Indonesian cinnamon, and drenched in our secret signature velvety cream cheese frosting.",
+    "descriptionAr": "رول القرفة الكلاسيكي الشهير بعجينة البريوش الهشة مع قرفة إندونيسية فاخرة ومغمور بصوص الجبنة الكريمية المخفوقة الفاخرة.",
+    "price": 115,
+    "image": "/images/signature_cinnabon.jpg",
+    "rating": 4.9,
+    "reviewsCount": 512,
+    "calories": 640,
+    "prepTime": "5 mins",
+    "isSignature": true,
+    "isBestSeller": true,
+    "isVegetarian": true,
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ]
+  },
+  {
+    "id": "cin-03",
+    "name": "Lotus Biscoff & Salted Caramel Bon",
+    "nameAr": "سينابون لوتس بيسكوف مع سولتد كراميل",
+    "category": "cinnabon",
+    "description": "Warm cinnamon roll topped with melted Belgian Lotus Biscoff spread, crushed spiced caramelized biscuits, and a delicate touch of Mediterranean sea salt flakes.",
+    "descriptionAr": "رول قرفة دافئ مغطى بزبدة لوتس بيسكوف البلجيكية الذائبة مع بسكويت مكرمل مقرمش ولمسة من ملح البحر المتوسط الفاخر.",
+    "price": 135,
+    "image": "/images/signature_cinnabon.jpg",
+    "rating": 4.8,
+    "reviewsCount": 247,
+    "calories": 720,
+    "prepTime": "6 mins",
+    "isVegetarian": true,
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Soy"
+    ]
+  },
+  {
+    "id": "cin-04",
+    "name": "Belgian Dark Chocolate Molten Bon",
+    "nameAr": "سينابون دارك شوكولاتة بلجيكية فاخرة",
+    "category": "cinnabon",
+    "description": "Filled with double-dutch cocoa swirl and coated in silky 70% dark Belgian chocolate ganache, cacao nibs, and cream cheese ribbons.",
+    "descriptionAr": "محشو بدوامة كاكاو مكثفة ومغطى بجناش الشوكولاتة البلجيكية الداكنة 70% مع قطع الكاكاو النقية ولمسات الكريمة المخفوقة.",
+    "price": 130,
+    "image": "/images/signature_cinnabon.jpg",
+    "rating": 4.8,
+    "reviewsCount": 198,
+    "calories": 710,
+    "prepTime": "6 mins",
+    "isVegetarian": true,
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ]
+  },
+  {
+    "id": "cin-05",
+    "name": "Semobon Mini Bon Gathering Box (6-Pack)",
+    "nameAr": "بوكس ميني بون للمة والأصدقاء (٦ قطع)",
+    "category": "cinnabon",
+    "description": "An assortment of 6 warm bite-sized mini rolls: 2 Classic, 2 Pecanbon, 1 Lotus, and 1 Belgian Chocolate. Ideal for sharing.",
+    "descriptionAr": "تشكيلة مميزة من ٦ قطع ميني سينابون دافئة: ٢ كلاسيك، ٢ بيكان، ١ لوتس، و١ شوكولاتة بلجيكية. مثالية للمشاركة.",
+    "price": 295,
+    "image": "/images/signature_cinnabon.jpg",
+    "rating": 5,
+    "reviewsCount": 164,
+    "calories": 1450,
+    "prepTime": "10 mins",
+    "isSignature": true,
+    "isVegetarian": true,
+    "allergens": [
+      "Gluten",
+      "Dairy",
+      "Tree Nuts"
+    ]
+  },
+  {
+    "id": "nes-01",
+    "name": "Cairo Frothy Whipped Nescafé Gold Special",
+    "nameAr": "نسكافيه مصري مخفوق برغوة ذهبية مكثفة",
+    "category": "nescafe",
+    "description": "Egypt’s legendary cafe ritual elevated: hand-whipped Nescafé Gold into a thick, marshmallow-like foam blanketed over steaming whole or oat milk with Madagascar vanilla hint.",
+    "descriptionAr": "طقوس المقاهي المصرية برؤية فاخرة: نسكافيه جولد مخفوق يدوياً حتى تتكون رغوة كريمية سميكة فوق حليب طازج مع لمسة فانيليا مدغشقر.",
+    "price": 75,
+    "image": "/images/frothy_nescafe.jpg",
+    "rating": 4.9,
+    "reviewsCount": 420,
+    "prepTime": "4 mins",
+    "isSignature": true,
+    "isBestSeller": true,
+    "isVegetarian": true,
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "nes-02",
+    "name": "Iced Dalgona Caramel Froth Nescafé",
+    "nameAr": "نسكافيه مثلج دالونا بالكراميل المكرمل",
+    "category": "nescafe",
+    "description": "Chilled organic whole milk over slow-melting clear ice spheres, crowned with an airy whipped coffee crown and sea salt caramel ribbon.",
+    "descriptionAr": "حليب بارد نقي فوق مكعبات ثلج مع طبقة رغوة نسكافيه مخفوقة هوائية وصوص كراميل بملح البحر المتوسط.",
+    "price": 85,
+    "image": "/images/frothy_nescafe.jpg",
+    "rating": 4.8,
+    "reviewsCount": 310,
+    "prepTime": "4 mins",
+    "isVegetarian": true,
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "nes-03",
+    "name": "Hazelnut Praline Frothy Nescafé",
+    "nameAr": "نسكافيه مخفوق برالين البندق الفاخر",
+    "category": "nescafe",
+    "description": "Rich frothy Nescafé infusion layered with roasted Mediterranean hazelnut paste, velvety steamed milk, and cocoa dusting.",
+    "descriptionAr": "نسكافيه رغوي دافئ ممزوج ببرالين البندق المحمص وحليب مخملي مع رشة كاكاو ناعمة.",
+    "price": 80,
+    "image": "/images/frothy_nescafe.jpg",
+    "rating": 4.7,
+    "reviewsCount": 185,
+    "prepTime": "4 mins",
+    "isVegetarian": true,
+    "allergens": [
+      "Dairy",
+      "Tree Nuts"
+    ]
+  },
+  {
+    "id": "cof-01",
+    "name": "Authentic Cairo Turkish Coffee with Green Cardamom",
+    "nameAr": "قهوة تركي على الريحة مع حبهان ومستكة",
+    "category": "luxury_coffee",
+    "description": "Slow-brewed in a traditional hot sand cezve (kanaka) using dark roasted Brazilian & Ethiopian Arabica, fragrant green cardamom, and a touch of Greek Chios mastic.",
+    "descriptionAr": "محضرة على الرمل الساخن في كنكة نحاسية يدوية من بن برازيلي وإثيوبي محمص مع حبهان أخضر ولمسة مستكة يونانية أصيلة.",
+    "price": 65,
+    "image": "/images/luxury_espresso.jpg",
+    "rating": 5,
+    "reviewsCount": 395,
+    "prepTime": "5 mins",
+    "isSignature": true,
+    "isBestSeller": true,
+    "isVegetarian": true
+  },
+  {
+    "id": "cof-02",
+    "name": "Spanish Velvet Latte",
+    "nameAr": "سبانش لاتيه مخملي بالحليب المكثف",
+    "category": "luxury_coffee",
+    "description": "Double shot of high-elevation espresso combined with steamed milk and artisanal dulce de leche condensed milk. Incomparably silky.",
+    "descriptionAr": "شوت مزدوج من إسبريسو المزارع العالية ممزوج بحليب طازج وحليب مكرمل مكثف لقوام ناعم وغني.",
+    "price": 95,
+    "image": "/images/luxury_espresso.jpg",
+    "rating": 4.9,
+    "reviewsCount": 460,
+    "prepTime": "3 mins",
+    "isBestSeller": true,
+    "isVegetarian": true,
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "cof-03",
+    "name": "Single-Origin Ethiopian Yirgacheffe Pour-Over (V60)",
+    "nameAr": "قهوة مقطرة V60 إثيوبيا يرغاتشيفي سنجل أوريجن",
+    "category": "luxury_coffee",
+    "description": "Handcrafted precision brew with floral jasmine notes, bergamot citrus acidity, and a crisp, lingering honey finish.",
+    "descriptionAr": "قهوة فلتر مقطرة بعناية بملاحظات زهرية للياسمين والبرغموت وحموضة فاكهية متوازنة مع لمسة عسل نقية.",
+    "price": 110,
+    "image": "/images/luxury_espresso.jpg",
+    "rating": 4.9,
+    "reviewsCount": 178,
+    "prepTime": "5 mins",
+    "isVegetarian": true
+  },
+  {
+    "id": "cof-04",
+    "name": "Cortado Royale & Cardamom Drop",
+    "nameAr": "كورتادو رويال بقطرة الحبهان",
+    "category": "luxury_coffee",
+    "description": "Equal parts velvety microfoam and concentrated double espresso, served in a heavy Gibraltar glass with a single drop of cardamom oil.",
+    "descriptionAr": "نسبة متساوية من الميكروفوم المخملي والإسبريسو المزدوج المركز في كوب جبل طارق الكلاسيكي.",
+    "price": 80,
+    "image": "/images/luxury_espresso.jpg",
+    "rating": 4.8,
+    "reviewsCount": 142,
+    "prepTime": "3 mins",
+    "isVegetarian": true,
+    "allergens": [
+      "Dairy"
+    ]
+  },
+  {
+    "id": "ref-01",
+    "name": "Aswan Hibiscus Karkadeh Spritz with Fresh Mint",
+    "nameAr": "كركديه أسواني فوار مع نعناع طازج وليمون",
+    "category": "refreshers",
+    "description": "Hand-picked dried Aswan hibiscus flowers cold-infused for 24 hours, sparkling tonic, fresh garden mint, and crushed Egyptian pomegranate seeds.",
+    "descriptionAr": "كركديه أسواني منقوع على البارد لمدة ٢٤ ساعة، صودا فوارة، أوراق نعناع طازجة وحبوب رمان مصري حلو.",
+    "price": 70,
+    "image": "/images/hero_cafe.jpg",
+    "rating": 4.9,
+    "reviewsCount": 280,
+    "prepTime": "3 mins",
+    "isSignature": true,
+    "isVegetarian": true
+  },
+  {
+    "id": "ref-02",
+    "name": "Mediterranean Orange Blossom Citrus Iced Tonic",
+    "nameAr": "تونيك الحمضيات بماء زهر البرتقال المتوسطي",
+    "category": "refreshers",
+    "description": "Fresh blood orange juice, aromatic neroli orange blossom water, rosemary sprig, and artisanal Mediterranean tonic over crystal ice.",
+    "descriptionAr": "عصير برتقال يافاوي طازج مع ماء زهر البرتقال العطري وعود روزماري وتونيك منعش.",
+    "price": 75,
+    "image": "/images/hero_cafe.jpg",
+    "rating": 4.8,
+    "reviewsCount": 156,
+    "prepTime": "3 mins",
+    "isVegetarian": true
+  },
+  {
+    "id": "sav-01",
+    "name": "Grilled Halloumi & Za’atar Brioche Melt",
+    "nameAr": "بريوش الحلوم المشوي مع الزعتر وزيت الزيتون البكر",
+    "category": "savory",
+    "description": "Golden grilled Cypriot halloumi cheese, roasted red peppers, wild thyme za’atar, and cold-pressed Sinai olive oil inside a toasted brioche bun.",
+    "descriptionAr": "جبن حلوم قبرصي مشوي مع فلفل أحمر مشوي، زعتر بري وزيت زيتون سيناوي بكر داخل خبز بريوش محمص.",
+    "price": 125,
+    "image": "/images/hero_cafe.jpg",
+    "rating": 4.9,
+    "reviewsCount": 210,
+    "calories": 520,
+    "prepTime": "8 mins",
+    "isBestSeller": true,
+    "isVegetarian": true,
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ]
+  },
+  {
+    "id": "sav-02",
+    "name": "Smoked Turkey & Swiss Emmental Croissant Melt",
+    "nameAr": "كرواسون زبدة محشو ديك رومي مدخن وجبنة إيمنتال",
+    "category": "savory",
+    "description": "Flaky pure French butter croissant layered with premium beechwood smoked turkey breast, melted alpine Emmental, and whole-grain Dijon cream.",
+    "descriptionAr": "كرواسون فرنسي هش بالزبدة الطبيعية محشو شرائح تركي مدخن مع جبنة إيمنتال ذائبة ومسطردة ديجون بالحبوب.",
+    "price": 140,
+    "image": "/images/hero_cafe.jpg",
+    "rating": 4.8,
+    "reviewsCount": 195,
+    "calories": 580,
+    "prepTime": "7 mins",
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ]
+  },
+  {
+    "id": "sav-03",
+    "name": "Sinai Truffle Labneh on Artisanal Sourdough",
+    "nameAr": "توست الساوردو مع لبنة سيناء وزيت الكمأة الأسود",
+    "category": "savory",
+    "description": "Thick toasted country sourdough topped with strained artisanal labneh, kalamata olive tapenade, cherry tomatoes on the vine, and Italian black truffle oil.",
+    "descriptionAr": "خبز ساوردو محمص مغطى بلبنة قروية ناعمة، معجون زيتون كالاماتا، طماطم شيري وزيت الكمأة الأسود الإيطالي.",
+    "price": 110,
+    "image": "/images/hero_cafe.jpg",
+    "rating": 4.7,
+    "reviewsCount": 130,
+    "calories": 410,
+    "prepTime": "6 mins",
+    "isVegetarian": true,
+    "allergens": [
+      "Gluten",
+      "Dairy"
+    ]
   }
 ]
